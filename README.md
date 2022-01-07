@@ -1,6 +1,6 @@
 # Kong in Docker Compose
 
-This is the GoApptiv Docker Compose template for [Kong][kong-site-url] with lastest supported Postgres version and Nginx Load Balancer for Scaling.
+This is the GoApptiv Docker Compose template for [Kong](https://konghq.com/) with lastest supported Postgres version and Nginx Load Balancer for Scaling.
 
 ## What is Kong?
 
@@ -28,7 +28,7 @@ docker-compose down
 
 Kong will be available through the `nginx-lb` instance on port `8000`, and `8001`. You can customize the template with your own environment variables or datastore configuration.
 
-Kong's documentation can be found at [https://docs.konghq.com/][kong-docs-url].
+Kong's documentation can be found at [https://docs.konghq.com/](https://docs.konghq.com/).
 
 ## Issues
 
